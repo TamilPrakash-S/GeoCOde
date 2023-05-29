@@ -23769,6 +23769,7 @@
         },
         "year": "2021",
         "dis_code": "12",
+        "inspections": "${inspections}",
         "dis_name": "Portalegre",
         "dis_name_upper": "PORTALEGRE",
         "dis_name_lower": "portalegre",
