@@ -1,0 +1,1256 @@
+{
+    "GetDashboardDataResult":[
+  {
+    "Conselho": "Seia",
+    "Inspections": 10
+  },
+  {
+    "Conselho": "Ponta Delgada",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Boticas",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Oliveira do Hospital",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Góis",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Miranda do Corvo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Castro Marim",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Arruda dos Vinhos",
+    "Inspections": 17
+  },
+  {
+    "Conselho": "Entroncamento",
+    "Inspections": 12
+  },
+  {
+    "Conselho": "Monforte",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Beja",
+    "Inspections": 8
+  },
+  {
+    "Conselho": "Sobral de Monte Agraço",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Santa Cruz da Graciosa",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Reguengos de Monsaraz",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Seixal",
+    "Inspections": 8
+  },
+  {
+    "Conselho": "Celorico da Beira",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Armamar",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Ponte de Sor",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Moimenta da Beira",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Murtosa",
+    "Inspections": 6
+  },
+  {
+    "Conselho": "Campo Maior",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "São João da Madeira",
+    "Inspections": 5
+  },
+  {
+    "Conselho": "Sardoal",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Gavião",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "São Brás de Alportel",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Nelas",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Maia",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Figueira da Foz",
+    "Inspections": 64
+  },
+  {
+    "Conselho": "Oliveira do Bairro",
+    "Inspections": 18
+  },
+  {
+    "Conselho": "Marvão",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Estarreja",
+    "Inspections": 34
+  },
+  {
+    "Conselho": "Cantanhede",
+    "Inspections": 41
+  },
+  {
+    "Conselho": "Cartaxo",
+    "Inspections": 6
+  },
+  {
+    "Conselho": "Ribeira Grande",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Viana do Alentejo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Anadia",
+    "Inspections": 17
+  },
+  {
+    "Conselho": "Vila de Rei",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Lagoa (São Miguel)",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Almeida",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Porto de Mós",
+    "Inspections": 10
+  },
+  {
+    "Conselho": "Ovar",
+    "Inspections": 6
+  },
+  {
+    "Conselho": "Amadora",
+    "Inspections": 28
+  },
+  {
+    "Conselho": "Lagoa (Algarve)",
+    "Inspections": 16
+  },
+  {
+    "Conselho": "Resende",
+    "Inspections": 4
+  },
+  {
+    "Conselho": "Vila Verde",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Paços de Ferreira",
+    "Inspections": 34
+  },
+  {
+    "Conselho": "Amares",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Manteigas",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Lousã",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Mêda",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Oliveira de Azeméis",
+    "Inspections": 9
+  },
+  {
+    "Conselho": "Almeirim",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Proença-a-Nova",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Ferreira do Alentejo",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Lousada",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Penafiel",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Alter do Chão",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Mangualde",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila do Conde",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Sintra",
+    "Inspections": 140
+  },
+  {
+    "Conselho": "Montemor-o-Velho",
+    "Inspections": 9
+  },
+  {
+    "Conselho": "Fundão",
+    "Inspections": 23
+  },
+  {
+    "Conselho": "Vieira do Minho",
+    "Inspections": 5
+  },
+  {
+    "Conselho": "Castelo de Vide",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Velha de Ródão",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Penalva do Castelo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Nova de Paiva",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Tabuaço",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Felgueiras",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Ourém",
+    "Inspections": 46
+  },
+  {
+    "Conselho": "Moura",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Santa Maria da Feira",
+    "Inspections": 5
+  },
+  {
+    "Conselho": "Santiago do Cacém",
+    "Inspections": 7
+  },
+  {
+    "Conselho": "Mértola",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Povoação",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Santa Cruz",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Crato",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vendas Novas",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Gouveia",
+    "Inspections": 5
+  },
+  {
+    "Conselho": "Castro Daire",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Albergaria-a-Velha",
+    "Inspections": 29
+  },
+  {
+    "Conselho": "Mirandela",
+    "Inspections": 13
+  },
+  {
+    "Conselho": "Pombal",
+    "Inspections": 24
+  },
+  {
+    "Conselho": "Alfândega da Fé",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "São Vicente",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Montalegre",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Castro Verde",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Oleiros",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Ourique",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Trofa",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Lamego",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Elvas",
+    "Inspections": 18
+  },
+  {
+    "Conselho": "Guarda",
+    "Inspections": 72
+  },
+  {
+    "Conselho": "Estremoz",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Angra do Heroísmo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Terras de Bouro",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Avis",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Nova de Cerveira",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Velas",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Guimarães",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Almada",
+    "Inspections": 72
+  },
+  {
+    "Conselho": "Caminha",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Pouca de Aguiar",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Funchal",
+    "Inspections": 21
+  },
+  {
+    "Conselho": "Cuba",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Póvoa de Varzim",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Praia da Vitória",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Cabeceiras de Basto",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Serpa",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Sever do Vouga",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Barreiro",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Castanheira de Pêra",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Nordeste",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Freixo de Espada à Cinta",
+    "Inspections": 4
+  },
+  {
+    "Conselho": "Arronches",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Flor",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Valpaços",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Leiria",
+    "Inspections": 94
+  },
+  {
+    "Conselho": "Peniche",
+    "Inspections": 16
+  },
+  {
+    "Conselho": "Valença",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Ponta do Sol",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Alcobaça",
+    "Inspections": 24
+  },
+  {
+    "Conselho": "Monção",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Castelo Branco",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Grândola",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Grandola",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Azambuja",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Arganil",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Mira",
+    "Inspections": 12
+  },
+  {
+    "Conselho": "Aljezur",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Cadaval",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Loulé",
+    "Inspections": 8
+  },
+  {
+    "Conselho": "Vila Real de Santo António",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Mora",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vidigueira",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Marinha Grande",
+    "Inspections": 40
+  },
+  {
+    "Conselho": "Golegã",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Setúbal",
+    "Inspections": 101
+  },
+  {
+    "Conselho": "Bombarral",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Lagos",
+    "Inspections": 59
+  },
+  {
+    "Conselho": "Celorico de Basto",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Tondela",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Olhão",
+    "Inspections": 50
+  },
+  {
+    "Conselho": "Mação",
+    "Inspections": 4
+  },
+  {
+    "Conselho": "Loures",
+    "Inspections": 96
+  },
+  {
+    "Conselho": "Vila Nova de Poiares",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Paredes de Coura",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Carregal do Sal",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Corvo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Palmela",
+    "Inspections": 39
+  },
+  {
+    "Conselho": "Monchique",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Paredes",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Câmara de Lobos",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Santa Cruz das Flores",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Moita",
+    "Inspections": 48
+  },
+  {
+    "Conselho": "Tábua",
+    "Inspections": 4
+  },
+  {
+    "Conselho": "Redondo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Coimbra",
+    "Inspections": 44
+  },
+  {
+    "Conselho": "Vila Real",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Portimão",
+    "Inspections": 27
+  },
+  {
+    "Conselho": "Carrazeda de Ansiães",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Nova de Foz Côa",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Ansião",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Póvoa de Lanhoso",
+    "Inspections": 18
+  },
+  {
+    "Conselho": "Alvito",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vale de Cambra",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Sabugal",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Figueira de Castelo Rodrigo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Ílhavo",
+    "Inspections": 72
+  },
+  {
+    "Conselho": "Nisa",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Silves",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "São João da Pesqueira",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Amarante",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Alcoutim",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Sousel",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila do Porto",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Abrantes",
+    "Inspections": 12
+  },
+  {
+    "Conselho": "Vila Viçosa",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "São Pedro do Sul",
+    "Inspections": 4
+  },
+  {
+    "Conselho": "Chaves",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Nova de Gaia",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Ponte da Barca",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Soure",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Peso da Régua",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Aguiar da Beira",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Calheta (Madeira)",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Alijó",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Arraiolos",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Espinho",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Aveiro",
+    "Inspections": 177
+  },
+  {
+    "Conselho": "Águeda",
+    "Inspections": 43
+  },
+  {
+    "Conselho": "Miranda do Douro",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Ribeira Brava",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Santo Tirso",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vizela",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Machico",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Porto",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Figueiró dos Vinhos",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Albufeira",
+    "Inspections": 5
+  },
+  {
+    "Conselho": "Alenquer",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Alcácer do Sal",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Évora",
+    "Inspections": 47
+  },
+  {
+    "Conselho": "Oeiras",
+    "Inspections": 195
+  },
+  {
+    "Conselho": "Vinhais",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Calheta (São Jorge)",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Arcos de Valdevez",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Lisboa",
+    "Inspections": 1343
+  },
+  {
+    "Conselho": "Tarouca",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Penamacor",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Chamusca",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Penedono",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Benavente",
+    "Inspections": 7
+  },
+  {
+    "Conselho": "Cinfães",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Montemor-o-Novo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Sobral Monte Agraço",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Aljustrel",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Fronteira",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Sabrosa",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vagos",
+    "Inspections": 25
+  },
+  {
+    "Conselho": "Madalena",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Porto Moniz",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Sernancelhe",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Esposende",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Mogadouro",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Nova da Barquinha",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Mealhada",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Cascais",
+    "Inspections": 46
+  },
+  {
+    "Conselho": "Salvaterra de Magos",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Mondim de Basto",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Arouca",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Pinhel",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Ferreira do Zêzere",
+    "Inspections": 5
+  },
+  {
+    "Conselho": "Ferreira do Zezere",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Valongo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Faro",
+    "Inspections": 4
+  },
+  {
+    "Conselho": "Portel",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Sertã",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Castelo de Paiva",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Óbidos",
+    "Inspections": 11
+  },
+  {
+    "Conselho": "Horta",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Borba",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Porto Santo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Rio Maior",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Barcelos",
+    "Inspections": 28
+  },
+  {
+    "Conselho": "Odivelas",
+    "Inspections": 28
+  },
+  {
+    "Conselho": "Penacova",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Lajes das Flores",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Coruche",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Baião",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Nova de Famalicão",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Mourão",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Lagoa",
+    "Inspections": 37
+  },
+  {
+    "Conselho": "Penela",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Marco de Canaveses",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Batalha",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Constância",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Pampilhosa da Serra",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Lourinhã",
+    "Inspections": 9
+  },
+  {
+    "Conselho": "Braga",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Tavira",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Alandroal",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila Franca do Campo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Macedo de Cavaleiros",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Almodôvar",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Portalegre",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Bragança",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Condeixa-a-Nova",
+    "Inspections": 7
+  },
+  {
+    "Conselho": "Viseu",
+    "Inspections": 5
+  },
+  {
+    "Conselho": "São Roque do Pico",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Gondomar",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Sesimbra",
+    "Inspections": 10
+  },
+  {
+    "Conselho": "Alcochete",
+    "Inspections": 15
+  },
+  {
+    "Conselho": "Alpiarça",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Oliveira de Frades",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Idanha-a-Nova",
+    "Inspections": 3
+  },
+  {
+    "Conselho": "Santarém",
+    "Inspections": 20
+  },
+  {
+    "Conselho": "Lajes do Pico",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Santana",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Torre de Moncorvo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Nazaré",
+    "Inspections": 43
+  },
+  {
+    "Conselho": "Covilhã",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Fafe",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Santa Comba Dão",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Alcanena",
+    "Inspections": 17
+  },
+  {
+    "Conselho": "Freixo-Espada-a-Cinta",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Pedrógão Grande",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Trancoso",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vila do Bispo",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Mesão Frio",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Mafra",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Ponte de Lima",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Vila Franca de Xira",
+    "Inspections": 2
+  },
+  {
+    "Conselho": "Alvaiázere",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Melgaço",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Torres Vedras",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Viana do Castelo",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Ribeira de Pena",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Matosinhos",
+    "Inspections": 72
+  },
+  {
+    "Conselho": "Vouzela",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Santa Marta de Penaguião",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Vimioso",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Murça",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Montijo",
+    "Inspections": 25
+  },
+  {
+    "Conselho": "Caldas da Rainha",
+    "Inspections": 15
+  },
+  {
+    "Conselho": "Tomar",
+    "Inspections": 6
+  },
+  {
+    "Conselho": "Belmonte",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Torres Novas",
+    "Inspections": 36
+  },
+  {
+    "Conselho": "Sátão",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Barrancos",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Sines",
+    "Inspections": 19
+  },
+  {
+    "Conselho": "Mortágua",
+    "Inspections": 0
+  },
+  {
+    "Conselho": "Odemira",
+    "Inspections": 1
+  },
+  {
+    "Conselho": "Fornos de Algodres",
+    "Inspections": 0
+  }
+]
+}
